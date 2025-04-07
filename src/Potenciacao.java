@@ -15,7 +15,7 @@ public class Potenciacao {
 
         resultado = Math.pow(base, expoente);
 
-        System.out.printf("%d elevado a %d é igual a %d", base, expoente, resultado);
+        System.out.printf("%.2f elevado a %.2f é igual a %.2f", base, expoente, resultado);
 
     }
 }
