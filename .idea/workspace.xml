@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8314ab9-d82b-40d2-b15f-68a64eb88c02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples_4/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples_4/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples_4/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples_4/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples_4/Example5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples_2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Examples_3/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples_4/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples_4/Example7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Examples/Examples_4/Example5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Examples/Examples_4/Example5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +25,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="31JuILKmNNUtcQP4XcB2Iz2hd7k" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,6 +44,7 @@
     "Application.Example3.executor": "Run",
     "Application.Example4.executor": "Run",
     "Application.Example5.executor": "Run",
+    "Application.Example6.executor": "Run",
     "Application.Example7.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755254419449</updated>
       <workItem from="1755254422143" duration="8600000" />
+      <workItem from="1755264824578" duration="1990000" />
     </task>
     <servers />
   </component>
