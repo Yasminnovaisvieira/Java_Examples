@@ -1,0 +1,21 @@
+package Examples_4;
+
+public class Example5 {
+    public static void main(String[] args) {
+        System.out.println("===== TABUADA =====\n");
+
+        int contadorExterno = 1, contadorInterno = 0;
+
+        while(contadorExterno <= 10){
+            contadorInterno = 0;
+            while(contadorInterno <= 10){
+                int resultadoTabuada = contadorExterno * contadorInterno;
+
+                System.out.printf("%d X %d = %d\n", contadorExterno, contadorInterno, resultadoTabuada);
+                contadorInterno++;
+            }
+            System.out.println("\n");
+            contadorExterno++;
+        }
+    }
+}

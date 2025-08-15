@@ -1,0 +1,14 @@
+package Examples_4;
+
+public class Example4 {
+    public static void main(String[] args) {
+        System.out.println("====== TABUADA ======");
+
+        for (int i = 0; i <= 10; i++) {
+            for (int y = 0; y <= 10; y++) {
+                int resultadoTabuada = i * y;
+                System.out.printf("%d X %d = %d\n", i, y, resultadoTabuada);
+            }
+        }
+    }
+}
