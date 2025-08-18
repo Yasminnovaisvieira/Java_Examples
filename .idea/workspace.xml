@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8314ab9-d82b-40d2-b15f-68a64eb88c02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Examples_4/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Examples_4/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples_5/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples_5/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples_5/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Examples_5/Example4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Examples/Examples_4/Example5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Examples/Examples_4/Example5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Examples/Examples_4/Example7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Examples/Examples_4/Example7.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,28 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Example1.executor": "Run",
-    "Application.Example2.executor": "Run",
-    "Application.Example3.executor": "Run",
-    "Application.Example4.executor": "Run",
-    "Application.Example5.executor": "Run",
-    "Application.Example6.executor": "Run",
-    "Application.Example7.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Example1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Example7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -76,6 +78,7 @@
       <updated>1755254419449</updated>
       <workItem from="1755254422143" duration="8600000" />
       <workItem from="1755264824578" duration="1990000" />
+      <workItem from="1755521584483" duration="4453000" />
     </task>
     <servers />
   </component>
