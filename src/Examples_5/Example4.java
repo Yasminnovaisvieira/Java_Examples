@@ -16,20 +16,17 @@ public class Example4 {
         while (true) {
             try {
                 System.out.print("Digite um número: ");
-                numero = read.nextInt();
+                numero = Integer.parseInt(read.nextLine());
 
                 if (numero < 20){
                     System.out.printf("%d é menor do que 20! Tente novamente.\n\n", numero);
                     continue; // Reinicia o laço.
                 }
-
                 break;
             }
-            catch (InputMismatchException | NumberFormatException error){
+            catch (NumberFormatException error){
                 System.out.println("Opa... Você digitou caracteres inválidos! Digite apenas números.\n");
             }
-
-            read.nextLine();
         }
         System.out.printf("O número que você digitou é %d!", numero);
     }
